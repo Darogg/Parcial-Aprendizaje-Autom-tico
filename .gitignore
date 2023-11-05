@@ -87,3 +87,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+produccin-de-pozos-de-gas-y-petrleo-no-convencional.csv
+data/raw/produccin-de-pozos-de-gas-y-petrleo-2023.csv
